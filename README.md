@@ -10,3 +10,4 @@ Git and Git Hub professional course practice
 
 * Creado por Platzi
 * Incluye ejemplos en Maria Linux, Maria WIndows Y por Supuesto, en encandenanglinis Mac
+* Disponible para todas las Marias con Maria Tacon
