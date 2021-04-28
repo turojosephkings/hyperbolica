@@ -9,3 +9,4 @@ Git and Git Hub professional course practice
 > - Git & Github Best practices
 
 * Creado por Platzi
+* Incluye ejemplos en Maria Linux, Maria WIndows Y por Supuesto, en encandenanglinis Mac
